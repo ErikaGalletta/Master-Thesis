@@ -1,0 +1,1 @@
+Main.ipynb is a notebook replicating the code used to clean and transform the data, fit the models and plot the results reported in the Thesis "Analysis of Agglomeration Economies in Europe" by Erika Galletta. The pdf of the thesis, expanding on the results and discussing the literature and the model selected can be found in the folder.
